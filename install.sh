@@ -31,6 +31,7 @@ INSTALLERS=(
   "python|pyenv + Python|install-python.sh|py python3 pip"
   "aws|AWS CLI|install-aws-cli.sh|awscli amazon"
   "cloudflared|cloudflared (Cloudflare Tunnel)|install-cloudflared.sh|cloudflare tunnel cf"
+  "nginx|nginx (web server / reverse proxy)|install-nginx.sh|webserver proxy"
   "flutter|Flutter SDK|install-flutter.sh|dart"
   "docker|Docker (Desktop or Colima)|install-docker.sh|container compose"
   "android|Android Studio + SDK|install-android-studio.sh|android-studio sdk adb"
